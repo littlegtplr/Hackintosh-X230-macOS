@@ -20,7 +20,7 @@ The installation of macOS to x230 can be done with the typical vanilla approach:
 7. Set BIOS as indicated in xxx10101xxx's repository. 
 8. Boot into the USB stick, install macOS - https://hackintosher.com/guides/macos-high-sierra-hackintosh-install-clover-walkthrough/
 9. After the installation, install Clover Bootloader to the SSD/HDD of the macOS just installed, as what was did to the USB stick. 
-10. Copy and Paste the EFI folder from the USB stick to the EFI paritition of the installed SSD/HDD. Now the macOS should be able to boot up with the USB stick. If not, don't panic, insert the USB stick and boot into the system installed see if there's anything wrong with the EFI partition and try again. 
+10. Copy and Paste the EFI folder from the USB stick to the EFI paritition of the installed SSD/HDD. Now the macOS should be able to boot up without the USB stick. If not, don't panic, insert the USB stick and boot into the system installed see if there's anything wrong with the EFI partition and try again. 
 11. Generate a SSDT for Power Management, follow the procedure suggested by Piker-Alpha - https://github.com/Piker-Alpha/ssdtPRGen.sh
 12. Install WiFi dongle driver (in my case it's Edimax EW-7611ULB or EW-7811Un) - https://www.edimax.com/edimax/download/download/data/edimax/global/download/for_home/wireless_adapters/wireless_adapters_n150/ew-7611ulb
 13. Done! 
