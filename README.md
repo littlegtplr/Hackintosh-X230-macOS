@@ -4,7 +4,7 @@ Clover and plist file for X230-K9V
 Relevant specs of my X230: 
 - CPU: i5-3230m
 - SSD: Plextor PX-256M2M (APFS is used with trim set to 'on', no speed decreases noticed)
-- Bluetooth: Broadcom BCM20702A0 (come with my x230 but need extra kext to work properly. In my case, BrcmPatchRAM2.kext and BrcmFirmwareData.kext from RehabMan/OS-X-BrcmPatchRAM is necessary. https://bitbucket.org/RehabMan/os-x-brcmpatchram info credit goes to /u/stormy90 on reddit https://www.reddit.com/r/hackintosh/comments/3t5bly/bluetooth_not_working_on_el_capitan_broadcom/ )
+- Bluetooth: Broadcom BCM20702A0 (come with my x230 but need extra kext to work properly. In my case, BrcmPatchRAM2.kext and BrcmFirmwareData.kext from RehabMan/OS-X-BrcmPatchRAM are necessary. https://bitbucket.org/RehabMan/os-x-brcmpatchram info credit goes to /u/stormy90 on reddit https://www.reddit.com/r/hackintosh/comments/3t5bly/bluetooth_not_working_on_el_capitan_broadcom/ )
 - WiFi dongle: Edimax EW-7611ULB (its bluetooth is invisible in macOS, or choose EW-7811Un for a WiFi only solution)
 
 The files used for this hackintosh are mainly from xxx10101xxx on github - https://github.com/xxx10101xxx/ThinkPad-X230-macOS
