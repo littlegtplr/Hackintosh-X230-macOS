@@ -24,9 +24,10 @@ The installation of High Sierra to x230 can be done with the typical vanilla app
 12. Install WiFi dongle driver (in my case it's Edimax EW-7611ULB or EW-7811Un) - https://www.edimax.com/edimax/download/download/data/edimax/global/download/for_home/wireless_adapters/wireless_adapters_n150/ew-7611ulb
 13. Done! 
 
-Hope the info can be helpful for anyone who'd like to install macOS on x230. 
-
 Known issues:
-1. trackpoint isn't working - both red dot and buttons, at chances they might work but not stable. Trackpad is working fine but nothing better then on windows (x230 users might have known what I'm talking about)
-2. boot/awake animation glitch - minor stuff, but I wasn't able to fix it. If anyone knows how to fix it please share the solution. Thanks. 
-3. d-sub output isn't working - not a news
+1. d-sub output isn't working - not a news
+2. trackpoint isn't working - both red dot and buttons, at chances they might work but not stable. Trackpad is working fine but nothing better than on windows (x230 users might have known what I'm talking about)
+3. boot/awake animation glitch - minor stuff, but I wasn't able to fix it with the solution suggested by Bizzaro https://github.com/Bizzaro/x230-osx . If anyone knows how to fix it please share the solution. Thanks. 
+4. Backlight brightness is set to maximum at boot. In my case this is due to Clover Bootloader overwrite NVRAM's value at boot. It uses Backlight Level: 0xFFFF at boot, this can be check by going to 'Options' - 'Graphics Injector' in Clover Bootloader in the middle of booting. The brightness stays at the previous value before rebooting if '0xFFFF' is deleted, but I seem can't find a way to set empty as default. If anyone knows how to do it, please share it with me. Thanks. 
+
+Hope the info can be helpful for anyone who'd like to install macOS on x230. 
