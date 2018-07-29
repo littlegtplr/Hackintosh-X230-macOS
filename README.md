@@ -18,8 +18,7 @@ The installation of macOS to x230 can be done with the typical vanilla approach:
 5. Generate a uuid, go to terminal, type 'uuidgen', hit 'enter', copy paste the results to the 'smUUID' on Clover Configurator. 
 6. Copy 'Board Serial Number' to 'Rt Variables' - 'MLB', save the plist and quit Clover Configurator. 
 7. Set BIOS as indicated in xxx10101xxx's repository. 
-8. Boot into the USB stick, install 
-Sierra - https://hackintosher.com/guides/macos-high-sierra-hackintosh-install-clover-walkthrough/
+8. Boot into the USB stick, install macOS - https://hackintosher.com/guides/macos-high-sierra-hackintosh-install-clover-walkthrough/
 9. After the installation, install Clover Bootloader to the SSD/HDD of the macOS just installed, as what was did to the USB stick. 
 10. Copy and Paste the EFI folder from the USB stick to the EFI paritition of the installed SSD/HDD. Now the macOS should be able to boot up with the USB stick. If not, don't panic, insert the USB stick and boot into the system installed see if there's anything wrong with the EFI partition and try again. 
 11. Generate a SSDT for Power Management, follow the procedure suggested by Piker-Alpha - https://github.com/Piker-Alpha/ssdtPRGen.sh
