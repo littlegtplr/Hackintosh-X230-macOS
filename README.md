@@ -1,5 +1,6 @@
-# Hackintosh-X230
-Clover and plist file for X230-K9V
+# Hackintosh-X2300-macOS
+
+https://imgur.com/a/pKfFYet
 
 Relevant specs of my X230: 
 - CPU: i5-3230m
