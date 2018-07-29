@@ -1,4 +1,4 @@
-# Hackintosh-X2300-macOS
+# Hackintosh-X230-macOS
 
 https://imgur.com/a/pKfFYet
 
