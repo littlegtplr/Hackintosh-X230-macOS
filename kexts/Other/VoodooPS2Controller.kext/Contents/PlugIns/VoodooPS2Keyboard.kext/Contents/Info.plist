@@ -294,8 +294,8 @@
 					<key>Custom PS2 Map</key>
 					<array>
 						<string>;Items must be strings in the form of scanfrom=scanto (in hex)</string>
-						<string>e027=0;disable discrete fnkeys toggle</string><string>29=56</string>
-						<string>e028=0;disable discrete trackpad toggle</string><string>56=29</string>
+						<string>e027=0;disable discrete fnkeys toggle</string>
+						<string>e028=0;disable discrete trackpad toggle</string>
 					</array>
 					<key>HIDF12EjectDelay</key>
 					<integer>250</integer>
