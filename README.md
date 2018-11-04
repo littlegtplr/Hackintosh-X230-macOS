@@ -37,3 +37,7 @@ Hope the info can be helpful for anyone who'd like to install macOS on x230.
 26 Sep 2018 Update:
 - kexts and drivers were updated to latest
 - The repo is compatible with Mojave (the machine is currently running on)
+
+4 Nov 2018 Update:
+- Remove backlight control (PNLF) from DSDT.aml and update the repo
+- Include SSDT-PNLF.aml, lilu.kext and AppleBacklightFixup.kext for optimised backlight control. Now the backlight control works properly
