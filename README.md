@@ -40,4 +40,4 @@ Hope the info can be helpful for anyone who'd like to install macOS on x230.
 
 4 Nov 2018 Update:
 - Remove backlight control (PNLF) from DSDT.aml and update the repo
-- Include SSDT-PNLF.aml, lilu.kext and AppleBacklightFixup.kext for optimised backlight control. Now the backlight control works properly. Credit goest to RehabMan. post 1 https://www.tonymacx86.com/threads/solved-applebacklightinjector-isnt-working-on-x230.257601 , and post 2 https://www.tonymacx86.com/threads/guide-laptop-backlight-control-using-applebacklightfixup-kext.218222/
+- Include SSDT-PNLF.aml, lilu.kext and AppleBacklightFixup.kext for optimised backlight control. Now the backlight control works properly. Credit goes to RehabMan. post 1 https://www.tonymacx86.com/threads/solved-applebacklightinjector-isnt-working-on-x230.257601 , and post 2 https://www.tonymacx86.com/threads/guide-laptop-backlight-control-using-applebacklightfixup-kext.218222/
