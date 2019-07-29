@@ -34,6 +34,13 @@ Known issues:
 
 Hope the info can be helpful for anyone who'd like to install macOS on x230. 
 
+#### 29 July 2019 Update:
+- clear clutters
+- '-v' is no longer necessary for successful boot up
+- kexts updated to the latest
+- Clover Bootloader updated to r5018, driver folder structure changed
+- macOS updated to 10.14.6
+
 26 Sep 2018 Update:
 - kexts and drivers were updated to latest
 - The repo is compatible with Mojave (the machine is currently running on)
