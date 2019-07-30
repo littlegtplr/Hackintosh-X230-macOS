@@ -40,6 +40,7 @@ Hope the info can be helpful for anyone who'd like to install macOS on x230.
 - kexts updated to the latest
 - Clover Bootloader updated to r5018, driver folder structure changed
 - macOS updated to 10.14.6
+- if you prefer to use trackpoint instead of trackpad, please refer to [this comment](https://github.com/littlegtplr/Hackintosh-X230-macOS/issues/1)
 
 26 Sep 2018 Update:
 - kexts and drivers were updated to latest
