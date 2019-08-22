@@ -1,5 +1,7 @@
 # Hackintosh-X230-macOS
 
+!! This is for of excelent littlegtplr X230 hackintosh files, i just changed tutorial for installing from harder vanilla installation to easier UniBeast/MultiBeast approach for people with less Hackintosh experience, i am also updating files from littlegtplr frequently !!
+
 https://imgur.com/a/pKfFYet
 
 Relevant specs of my X230: 
@@ -8,7 +10,7 @@ Relevant specs of my X230:
 - Bluetooth: Broadcom BCM20702A0 (come with my x230 but need extra kext to work properly. In my case, BrcmPatchRAM2.kext and BrcmFirmwareData.kext from RehabMan/OS-X-BrcmPatchRAM are necessary. https://bitbucket.org/RehabMan/os-x-brcmpatchram info credit goes to /u/stormy90 on reddit https://www.reddit.com/r/hackintosh/comments/3t5bly/bluetooth_not_working_on_el_capitan_broadcom/ )
 - WiFi dongle: Edimax EW-7611ULB (its bluetooth is invisible to macOS, or choose EW-7811Un for a WiFi only solution)
 
-The installation of macOS to x230 can be done with the typical vanilla approach:
+The installation of macOS to x230 can be done with the easier tonymacx86 UniBeast and MultiBeast approach:
 1. Prepare a macOS (in this case, it's Mojave) installation USB stick with UniBeast (1. and 2. Step, make sure to select UEFI) - https://hackintosher.com/guides/make-macos-flash-drive-installer/
 2. Copy and paste the files of this repository to EFI/Clover/ (merge it, not to replace whole folders), to mount the EFI partition, use either Clover Configurator or command line with diskutil - http://osxdaily.com/2013/05/13/mount-unmount-drives-from-the-command-line-in-mac-os-x/
 3. Generate a serial number with Clover Configurator. Open config.plist (from EFI partition) in Clover Configurator (left down corner), go to SMBIOS (on the left sidebar), hit 'Generate New' next to 'Serial Number' for whatever times you like. 
