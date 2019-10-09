@@ -3,7 +3,7 @@
 - '-lilubetaall' was added to the booting arguments as a workaround awaiting lilu.kext to update
 - clover EFI was broken during the first reboot of Catalina installer. Another USB EFI stick was used to boot and finish the installation
 - post-installation Clover r5070 was not able to be installed (not compatible to install on macOS drive) - installed to a USB drive then copy the drivers back to the EFI of the macOS drive
-- the wifi dongle (Edimax EW-7611ULB) driver is dead in Catalina (not compatible). Used [this](https://github.com/chris1111/Wireless-USB-Adapter) instead
+- the wifi dongle (Edimax EW-7611ULB) driver is dead in Catalina (not compatible). Use [this](https://github.com/chris1111/Wireless-USB-Adapter) instead
 
 #### 29 July 2019 Update:
 - clear clutters
