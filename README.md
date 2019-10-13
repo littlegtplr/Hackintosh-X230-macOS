@@ -1,3 +1,25 @@
+#### 09 October 2019 Catalina 10.15 Update:
+- bluetooth kext changed, from BrcmFirmwareData.kext and BrcmPatchRAM2.kext to BrcmBluetoothInjector.kext, as the first two were not able to drive the stock bluetooth module running on Catalina. Don't know why
+- clover EFI was broken during the first reboot of Catalina installer. Another USB EFI stick was used to boot and finish the installation
+- post-installation Clover r5070 was not able to be installed (not compatible to install on macOS drive) - installed to a USB drive then copy the drivers back to the EFI of the macOS drive
+- the wifi dongle (Edimax EW-7611ULB) driver is dead in Catalina (not compatible). Use [this](https://github.com/chris1111/Wireless-USB-Adapter) instead
+
+#### 29 July 2019 Update:
+- clear clutters
+- '-v' is no longer necessary for successful boot up
+- kexts updated to the latest
+- Clover Bootloader updated to r5018, driver folder structure changed
+- macOS updated to 10.14.6
+- if you prefer to use trackpoint instead of trackpad, please refer to [this comment](https://github.com/littlegtplr/Hackintosh-X230-macOS/issues/1)
+
+#### 26 Sep 2018 Update:
+- kexts and drivers were updated to latest
+- The repo is compatible with Mojave (the machine is currently running on)
+
+#### 4 Nov 2018 Update:
+- Remove backlight control (PNLF) from DSDT.aml and update the repo
+- Include SSDT-PNLF.aml, lilu.kext and AppleBacklightFixup.kext for optimised backlight control. Now the backlight control works properly. Credit goes to RehabMan. [post 1](https://www.tonymacx86.com/threads/solved-applebacklightinjector-isnt-working-on-x230.257601), and [post 2](https://www.tonymacx86.com/threads/guide-laptop-backlight-control-using-applebacklightfixup-kext.218222/)
+
 # Hackintosh-X230-macOS
 
 https://imgur.com/a/pKfFYet
@@ -33,19 +55,3 @@ Known issues:
 ~~1 Aug 2018 Update: the brightness level is preserved after rebooting by deleting EmuVariableUefi-64.efi from drivers64UEFI. But the minimum brightness is still brighter than it used to be on windows. Following procedures suggested in the post above did not fix the issue. If anyone knows how to do it, please feel free to share it. Thanks.~~
 
 Hope the info can be helpful for anyone who'd like to install macOS on x230. 
-
-#### 29 July 2019 Update:
-- clear clutters
-- '-v' is no longer necessary for successful boot up
-- kexts updated to the latest
-- Clover Bootloader updated to r5018, driver folder structure changed
-- macOS updated to 10.14.6
-- if you prefer to use trackpoint instead of trackpad, please refer to [this comment](https://github.com/littlegtplr/Hackintosh-X230-macOS/issues/1)
-
-26 Sep 2018 Update:
-- kexts and drivers were updated to latest
-- The repo is compatible with Mojave (the machine is currently running on)
-
-4 Nov 2018 Update:
-- Remove backlight control (PNLF) from DSDT.aml and update the repo
-- Include SSDT-PNLF.aml, lilu.kext and AppleBacklightFixup.kext for optimised backlight control. Now the backlight control works properly. Credit goes to RehabMan. [post 1](https://www.tonymacx86.com/threads/solved-applebacklightinjector-isnt-working-on-x230.257601), and [post 2](https://www.tonymacx86.com/threads/guide-laptop-backlight-control-using-applebacklightfixup-kext.218222/)
