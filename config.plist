@@ -31,13 +31,9 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>
-					R0ZYMA==
-					</data>
+					<data>R0ZYMA==</data>
 					<key>Replace</key>
-					<data>
-					SUdQVQ==
-					</data>
+					<data>SUdQVQ==</data>
 				</dict>
 			</array>
 			<key>ReuseFFFF</key>
@@ -213,17 +209,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				SIX/dEdIiwc=
-				</data>
+				<data>SIX/dEdIiwc=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>IOBluetoothFamily</string>
 				<key>Replace</key>
-				<data>
-				Qb4PAAAA60Q=
-				</data>
+				<data>Qb4PAAAA60Q=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -231,17 +223,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				QYP8/3QsSA==
-				</data>
+				<data>QYP8/3QsSA==</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AirPortBrcm4360</string>
 				<key>Replace</key>
-				<data>
-				ZscGVVPrKw==
-				</data>
+				<data>ZscGVVPrKw==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -249,17 +237,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				PHN0cmluZz5wY2kxNGU0LDQzYmE8L3N0cmluZz4=
-				</data>
+				<data>PHN0cmluZz5wY2kxNGU0LDQzYmE8L3N0cmluZz4=</data>
 				<key>InfoPlistPatch</key>
 				<true/>
 				<key>Name</key>
 				<string>AirPortBrcm4360</string>
 				<key>Replace</key>
-				<data>
-				PHN0cmluZz5wY2kxNGU0LDQzYjE8L3N0cmluZz4=
-				</data>
+				<data>PHN0cmluZz5wY2kxNGU0LDQzYjE8L3N0cmluZz4=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -267,17 +251,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				AVhU
-				</data>
+				<data>AVhU</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AirPortBrcm4360</string>
 				<key>Replace</key>
-				<data>
-				AVhY
-				</data>
+				<data>AVhY</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -285,17 +265,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				TWFjLUM2RUZBNjM5NjJGQzZFQTA=
-				</data>
+				<data>TWFjLUM2RUZBNjM5NjJGQzZFQTA=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AirPortBrcm4360</string>
 				<key>Replace</key>
-				<data>
-				TWFjLTI3QURCQjdCNENFRThFNjE=
-				</data>
+				<data>TWFjLTI3QURCQjdCNENFRThFNjE=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -303,17 +279,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				TWFjLUM2RUZBNjM5NjJGQzZFQTA=
-				</data>
+				<data>TWFjLUM2RUZBNjM5NjJGQzZFQTA=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AirPortBrcm4360</string>
 				<key>Replace</key>
-				<data>
-				TWFjLTI3QURCQjdCNENFRThFNjE=
-				</data>
+				<data>TWFjLTI3QURCQjdCNENFRThFNjE=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -321,17 +293,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				QYP8/3QsSA==
-				</data>
+				<data>QYP8/3QsSA==</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AirPortBrcm4360</string>
 				<key>Replace</key>
-				<data>
-				ZscGI2HrKw==
-				</data>
+				<data>ZscGI2HrKw==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -339,17 +307,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				axAAAHUN
-				</data>
+				<data>axAAAHUN</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AirPortBrcm4360</string>
 				<key>Replace</key>
-				<data>
-				axAAAJCQ
-				</data>
+				<data>axAAAJCQ</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -357,17 +321,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				QYP8/3QsSA==
-				</data>
+				<data>QYP8/3QsSA==</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AirPortBrcm4360</string>
 				<key>Replace</key>
-				<data>
-				ZscGVVPrKw==
-				</data>
+				<data>ZscGVVPrKw==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -375,17 +335,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				gflSqgAAdSk=
-				</data>
+				<data>gflSqgAAdSk=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AirPortBrcm4360</string>
 				<key>Replace</key>
-				<data>
-				gflSqgAAZpA=
-				</data>
+				<data>gflSqgAAZpA=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -393,17 +349,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				hQjsEA==
-				</data>
+				<data>hQjsEA==</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AppleHDA</string>
 				<key>Replace</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -411,17 +363,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				hBnUEQ==
-				</data>
+				<data>hBnUEQ==</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AppleHDA</string>
 				<key>Replace</key>
-				<data>
-				aQLsEA==
-				</data>
+				<data>aQLsEA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -429,17 +377,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				RiV1VCUwNHgA
-				</data>
+				<data>RiV1VCUwNHgA</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleBacklight</string>
 				<key>Replace</key>
-				<data>
-				RiV1VHh4eHgA
-				</data>
+				<data>RiV1VHh4eHgA</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -447,17 +391,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AQAAdRc=
-				</data>
+				<data>AQAAdRc=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>IOGraphicsFamily</string>
 				<key>Replace</key>
-				<data>
-				AQAA6xc=
-				</data>
+				<data>AQAA6xc=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -465,17 +405,13 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				RiV1VCUwNHgA
-				</data>
+				<data>RiV1VCUwNHgA</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleBacklight</string>
 				<key>Replace</key>
-				<data>
-				RiV1VHh4eHgA
-				</data>
+				<data>RiV1VHh4eHgA</data>
 			</dict>
 		</array>
 	</dict>
@@ -484,7 +420,7 @@
 		<key>BooterConfig</key>
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
-		<string>0x67</string>
+		<string>0x0</string>
 		<key>MLB</key>
 		<string></string>
 		<key>ROM</key>
