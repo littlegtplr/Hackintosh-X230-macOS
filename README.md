@@ -1,5 +1,5 @@
 #### 09 October 2019 Catalina 10.15 Update:
-- bluetooth kext changed, from BrcmFirmwareData.kext and BrcmPatchRAM2.kext to BrcmBluetoothInjector.kext, as the first two wasn't able to drive the stock bluetooth module running on Catalina. Don't know why
+- bluetooth kext changed, from BrcmFirmwareData.kext and BrcmPatchRAM2.kext to BrcmBluetoothInjector.kext, as the first two were not able to drive the stock bluetooth module running on Catalina. Don't know why
 - clover EFI was broken during the first reboot of Catalina installer. Another USB EFI stick was used to boot and finish the installation
 - post-installation Clover r5070 was not able to be installed (not compatible to install on macOS drive) - installed to a USB drive then copy the drivers back to the EFI of the macOS drive
 - the wifi dongle (Edimax EW-7611ULB) driver is dead in Catalina (not compatible). Use [this](https://github.com/chris1111/Wireless-USB-Adapter) instead
