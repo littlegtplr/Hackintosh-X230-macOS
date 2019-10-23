@@ -1,6 +1,6 @@
 #### 13 October 2019 Update:
-- Replace AppleBacklightFixup.kext with WhateverGreen.kext for future-proof
-- SIP set to Enable to avoid future disasters like what google updater did recently. In cases of Clover doesn't install and give an error "Disks need to be read and write", Disable SIP before installation and set to Enable afterwards. 
+- Replaced AppleBacklightFixup.kext with WhateverGreen.kext for future-proof
+- SIP set to Enable to avoid future disasters like what google updater did recently. In cases of Clover doesn't install and give an error "Disks need to be read and write", Disable SIP before the installation and set to Enable afterwards. 
 
 #### 09 October 2019 Catalina 10.15 Update:
 - bluetooth kext changed, from BrcmFirmwareData.kext and BrcmPatchRAM2.kext to BrcmBluetoothInjector.kext, as the first two were not able to drive the stock bluetooth module running on Catalina. Don't know why
