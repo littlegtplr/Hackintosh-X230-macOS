@@ -1,3 +1,7 @@
+#### 30 October 2019 Update:
+- Clover updated to r5096
+- Lilu and WhateverGreen updated to the latest
+
 #### 13 October 2019 Update:
 - Replaced AppleBacklightFixup.kext with WhateverGreen.kext for future-proof
 - SIP set to Enable to avoid future disasters like what google updater did recently. In cases of Clover doesn't install and give an error "Disks need to be read and write", Disable SIP before the installation and set to Enable afterwards. 
