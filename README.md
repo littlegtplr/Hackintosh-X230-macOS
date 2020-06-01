@@ -1,3 +1,6 @@
+#### 01 June 2020 10.15.5 Update:
+- Clover, kexts and drivers updated to the latest
+
 #### 07 April 2020 10.15.4 Update:
 - Clover updated to r5107
 - kexts and drivers updated to the latest
